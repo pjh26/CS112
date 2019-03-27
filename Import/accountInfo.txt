@@ -1,0 +1,14 @@
+anne	enna
+bill 	llib
+cam	mac
+dan	nad
+elle	elle
+fred	derf
+gary	yrag
+helen	nehel
+ivan	navi
+jane	enaj
+karl	lark
+lisa	asil
+mike	ekim
+

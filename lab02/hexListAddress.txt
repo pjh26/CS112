@@ -1,0 +1,18 @@
+Bool Adrs	0x7ffcff0c4993
+Short Adrs	0x7ffcff0c4996
+Int Adrs	0x7ffcff0c4998
+Long Adrs	0x7ffcff0c49a0
+Float Adrs	0x7ffcff0c499c
+Dble Adrs	0x7ffcff0c49a8
+Long Dbl Adrs	0x7ffcff0c49f0
+Char Adrs 1	0x7ffcff0c4994
+Char Adrs 2	0x7ffcff0c4995
+
+Boolean Ptr	0x7ffcff0c49b0
+Short Ptr	0x7ffcff0c49b8
+Integer Ptr	0x7ffcff0c49c0
+Long Ptr	0x7ffcff0c49c8
+Float Ptr	0x7ffcff0c49d0
+Double Ptr	0x7ffcff0c49d8
+Long Dble Ptr	0x7ffcff0c49e0
+Char Ptr	0x7ffcff0c49e8

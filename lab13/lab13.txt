@@ -1,0 +1,22 @@
+Section 1: Edit Item on Schedule
+
+You can the edit feature of LifeManager to edit items that have previously been added to your schedule.
+
+Imagine that you want to edit any part of an item on your schedule. The detailed steps in this section show you how to:
+	1. initiate the editing process,
+	2. change the item information,
+	3. save any changes to schedule.
+
+Step 1:
+	Tap on the Schedule tab on the bottom left of the screen.
+
+Step 2:
+	Tap on the Schedule item that you wish to change.
+
+Step 3:
+	Tap on any information that you wish to change and change it.
+
+Step 4:
+	Tap on the "Save Changes" button.
+
+Now you are done!
